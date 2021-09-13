@@ -44,7 +44,6 @@ input[type="number"]{
     box-sizing:border-box;
     transition:.3s;
   }
-  
   input[type=text]:focus{
     border-color:dodgerBlue;
     box-shadow:0 0 8px 0 dodgerBlue;
